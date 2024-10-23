@@ -45,7 +45,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <title>Login Form - Brave Coder</title>
